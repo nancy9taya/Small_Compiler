@@ -1,0 +1,18 @@
+ERROR: Varible a used without being inialized 
+ERROR: Undeclared Variable j
+ERROR: Type Mismatch ,Implicit conversion of Int type to Char or string
+	 result T 			  operator + 			   operand1 3.1000 			  operand2 b 
+ERROR: Type Mismatch
+Note: Implicit conversion of Float type expression to Int
+ERROR: Type Mismatch ,Implicit conversion of Int type to Char or string
+Name	Type	Value
+a	INT	-
+b	INT	4
+c	INT	-
+t	CHAR	-
+d	FLOAT	5.2000
+k	INT	-
+eman	STRING	-
+nancy	CHAR	'n'
+fatema	STRING	song
+input accepted

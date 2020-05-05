@@ -1,0 +1,16 @@
+	 result T 			  operator + 			   operand1 a 			  operand2 b 
+	 result c 			  operator = 			   operand1 T 			  operand2 - 
+	 result T 			  operator - 			   operand1 3 			  operand2 b 
+	 result a 			  operator = 			   operand1 T 			  operand2 - 
+	 result T 			  operator * 			   operand1 d 			  operand2 3.1000 
+	 result k 			  operator = 			   operand1 T 			  operand2 - 
+Name	Type	Value
+a	INT	0
+b	INT	3
+c	INT	8
+d	FLOAT	5.2000
+k	FLOAT	16.119999
+eman	STRING	fatma
+nancy	CHAR	'n'
+fatema	STRING	song
+input accepted
